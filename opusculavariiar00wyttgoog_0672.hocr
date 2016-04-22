@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculavariiar00wyttgoog/opusculavariiar00wyttgoog_0672.png"; bbox 0 0 2362 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 528 997 673">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 528 997 673">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 528 997 673; baseline 0.008 -49"><span class='ocrx_word' id='word_1_1' title='bbox 101 550 166 673; x_wconf 64' lang='lat'>⁷²⁸.</span> <span class='ocrx_word' id='word_1_2' title='bbox 252 528 397 626; x_wconf 73' lang='lat' dir='ltr'><strong>mnnx</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 424 550 703 644; x_wconf 74' lang='lat' dir='ltr'><strong>umusQuz</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 725 535 997 638; x_wconf 65' lang='lat' dir='ltr'><strong>vonum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 97 732 1082 1159">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 97 732 436 827">
+     <span class='ocr_line' id='line_1_2' title="bbox 97 732 436 827; baseline 0.029 -25"><span class='ocrx_word' id='word_1_5' title='bbox 97 732 285 811; x_wconf 70' lang='lat' dir='ltr'>hum.</span> <span class='ocrx_word' id='word_1_6' title='bbox 309 747 341 812; x_wconf 91' lang='grc' dir='ltr'>Ι.</span> <span class='ocrx_word' id='word_1_7' title='bbox 360 739 436 827; x_wconf 80' lang='lat'>633.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 99 842 1082 1046">
+     <span class='ocr_line' id='line_1_3' title="bbox 99 842 1082 940; baseline 0.01 -28"><span class='ocrx_word' id='word_1_8' title='bbox 99 842 312 918; x_wconf 64' lang='lat' dir='ltr'>zonam</span> <span class='ocrx_word' id='word_1_9' title='bbox 341 851 376 918; x_wconf 83' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_10' title='bbox 395 848 565 921; x_wconf 80' lang='lat' dir='ltr'>chronico</span> <span class='ocrx_word' id='word_1_11' title='bbox 584 847 671 918; x_wconf 75' lang='lat' dir='ltr'>vitu</span> <span class='ocrx_word' id='word_1_12' title='bbox 692 847 873 923; x_wconf 68' lang='lat' dir='ltr'>Plutuchi</span> <span class='ocrx_word' id='word_1_13' title='bbox 892 850 1082 940; x_wconf 72' lang='lat' dir='ltr'>frequenter&lt;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 100 956 423 1046; baseline 0.025 -25"><span class='ocrx_word' id='word_1_14' title='bbox 100 960 105 975; x_wconf 87' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 147 956 319 1028; x_wconf 52' lang='lat' dir='ltr'>acribiam</span> <span class='ocrx_word' id='word_1_16' title='bbox 350 978 423 1046; x_wconf 75' lang='lat'>3³7·</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 98 1058 456 1159">
+     <span class='ocr_line' id='line_1_5' title="bbox 98 1058 456 1159; baseline 0.017 -29"><span class='ocrx_word' id='word_1_17' title='bbox 98 1058 456 1159; x_wconf 59' lang='lat' dir='ltr'>29³1uus.1.31,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1186 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1186 4936">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1186 4936; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1186 4936; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
